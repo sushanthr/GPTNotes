@@ -1,2 +1,3 @@
 ## Notes on GPT Nano
-Souce https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py
+A visual representation of Karpathy's Nano GPT.
+Original model source https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py
